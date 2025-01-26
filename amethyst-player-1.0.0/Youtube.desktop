@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Amethyst
+Comment=Launchpad project player
+Icon=amethyst
+Exec=amethyst
+Categories=Music;
+Name[en_AU.utf8]=Amethyst
